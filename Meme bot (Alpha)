@@ -110,4 +110,7 @@ if meme_input1 == keemstar:
     print("14 year old french girl")
     print("why am i still getting hate")
 
+if meme_input1 == unfunny:
+    print("this bot")
+
 
