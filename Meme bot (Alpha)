@@ -1,116 +1,110 @@
-print("Hello! It's a meme bot. WARNING! You may contract cripling depression from all the dead memes.)")
-input = meme_input1 ("type anything!Even stale memes\n")
+print("Hello! It's a meme bot.")
+meme = input ("type anything!Even stale memes!\n")
 
-print("UR A FGT IF YOU LEAVE")
 
-if meme_input1 == uganda:
+if meme == "uganda":
     print ("da wae")
 
-if meme_input1 == idubbbz:
+if meme == "idubbbz":
     print ("i'm gay")
     print("i have cripling depression")
 
-if meme_input1 == jakepaul:
+if meme == "jakepaul":
     print ("its everyday bro! ITS EVERYDAY BRO!")
 
-if meme_input1 == tape:
+if meme == "flextape":
     print ("thats alot of damage.")
 
-if meme_input1 == leafy:
+if meme == "leafy":
     print ("fucking retarded")
 
-if meme_input1 == skyrim:
+if meme == "skyrim":
     print ("I was an adventurer like you. Untill I took a arrow to the knee.")
 
-if meme_input1 == liltay:
+if meme == "liltay":
     print ("this cost more than your rent.")
 
-if meme_input == fgt:
+if meme == "fgt":
     print("no u")
 
-if meme_input1 == kys:
+if meme == "kys":
     print("you should lol")
 
-if meme_input1 == fat:
+if meme == "fat":
     print("pyrocynical")
 
-if meme_input == anime:
+if meme == "anime":
     print("Weeaboos are not people.")
 
-if meme_input1 == yourmum: 
-    print("kys")
-
-if meme_input1 == no.u:
+if meme == "no.u":
     print("u on")
 
-if meme_input1 == ali-a:
+if meme == "ali-a":
     print("fortnite needs to die")
 
-if meme_input1 == fortnite:
+if meme == "fortnite":
     print("kys. play pubg")
 
-if meme_input1 == pubg:
+if meme == "pubg":
     print("play TABG")
 
-if meme_input1 == whats.the.meaning.of.life:
+if meme == "whats.the.meaning.of.life":
     print("42. dipshit.")
 
-if meme_input1 == python:
-    print("This is powered by python")
+if meme == "python":
+    print("This is bot is writen in python")
 
-if meme_input1 == JoJo:
+if meme == "JoJo":
     print("It's a good anime. Go watch it.")
 
-if meme_input1 == finley:
-    print("He is bae.")
-
-if meme_input1 == gayfaggot:
+if meme == "gayfaggot":
     print("idubbbz in a shellnut")
 
-if meme_input1 == whenwillhalf-life3beout:
+if meme == "whenwillhalf-life3beout":
     print("ask Lord gaben. not me.")
 
-if meme_input1 == autism:
+if meme == "autism":
     print("the fucking retards")
 
-if meme_input1 == reddit:
+if meme == "reddit":
     print("where memes live.")
 
-if meme_input1 == instagram:
+if meme == "instagram":
     print("memes die there")
 
-if meme_input1 == overwatch:
+if meme == "overwatch":
     print("gimmie some of that lesbian porn bitch")
 
-if meme_input1 == tf2:
+if meme == "tf2":
     print("Sandvich?")
 
-if meme_input1 == loganpaul:
+if meme == "loganpaul":
     print("the forrest.")
 
-if meme_input1 == ifailedatlife:
+if meme == "ifailedatlife":
     print("yeah, no shit.")
 
-if meme_input == kfc:
+if meme == "kfc":
     print("Kids Fatning Center")
 
-if meme_input1 == cancer: #100th line of code
-    print("call of duty")
-
-if meme_input1 == cancer2:
+if meme == "cancer1":
     print("rick and morty")
 
-if meme_input1 == cancer3:
+if meme == "cancer2":
     print("sonic")
 
-if meme_input1 == AIDS:
+if meme == "AIDS":
     print("gay people")
 
-if meme_input1 == keemstar:
+if meme == "keemstar":
     print("14 year old french girl")
     print("why am i still getting hate")
 
-if meme_input1 == unfunny:
+if meme == "unfunny":
     print("this bot")
 
+if meme == "howdidifindthisbot":
+    print("idk, github maby?")
 
+if meme == "source.code.link":
+    print("https://github.com/toastOS/Python")
